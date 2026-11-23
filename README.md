@@ -32,6 +32,25 @@ npm start
 
 Este é um projeto de exemplo para demonstrar como usar o README.md.
 
+## Resumo do Projeto
+
+O projeto está em um estágio inicial, com um README.md básico que descreve a instalação e o uso do projeto. Não há funcionalidades implementadas, apenas a estrutura básica do projeto.
+
+## Plano de Continuidade e Ação
+
+1. **Implementar a Estrutura Básica do Projeto**:
+   - Configurar o ambiente de desenvolvimento.
+   - Criar a estrutura de pastas e arquivos iniciais.
+
+2. **Desenvolver Funcionalidades Básicas**:
+   - Implementar a página inicial.
+   - Criar rotas básicas.
+   - Configurar o estado global da aplicação.
+
+3. **Testar e Validar**:
+   - Escrever testes para as funcionalidades implementadas.
+   - Validar a integração entre os componentes.
+
 ## Instalação
 
 Para instalar as dependências, execute:
